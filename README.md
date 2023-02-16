@@ -1,2 +1,2 @@
 # SQL-hackerrank-problems
-First project on SQL from HACKERRANK
+My solutions to various hackerrank SQL problems using DB2 
